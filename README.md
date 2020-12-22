@@ -1,1 +1,1 @@
-# heat_transfer_model
+This Jupyter Notebook is an example of how to set up a 1D heat transfer simulation in a cylindrical tube, and then model the error produced by our simulation using the ASME V&V 20 Standards.
